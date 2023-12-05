@@ -28,7 +28,6 @@ namespace Client
                 return header.Concat(body).ToArray();
             }
         }
-
     }
     internal class Program
     {
